@@ -1,2 +1,2 @@
 # python6
-# hahaha
+# some of my practise
